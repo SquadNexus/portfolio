@@ -1,4 +1,4 @@
-# personal-portfolio# 🚀 Personal Portfolio Website
+🚀 Personal Portfolio Website
 
 Welcome to the source code of my personal developer portfolio! This website serves as my digital home, showcasing my projects, skills, and background as I build my career in tech.
 
