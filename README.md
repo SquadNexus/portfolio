@@ -31,4 +31,4 @@ If you want to clone and run this project locally on your machine, follow these 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/portfolio.git](https://github.com/your-username/portfolio.git)
+   git clone [https://github.com/squadnexus/portfolio.git](https://github.com/squadnexus/portfolio.git)
