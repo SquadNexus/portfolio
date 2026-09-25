@@ -2,7 +2,7 @@
 
 Welcome to the source code of my personal developer portfolio! This website serves as my digital home, showcasing my projects, skills, and background as I build my career in tech.
 
-🌐 **Live Website:** [View Live Site Here](https://SquadNexus.github.io/portfolio/) *(Replace with your actual GitHub Pages link)*
+🌐 **Portfolio:** [View Live Site Here](https://SquadNexus.github.io/portfolio/) *(Replace with your actual GitHub Pages link)*
 
 ---
 
